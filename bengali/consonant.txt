@@ -1,0 +1,5 @@
+Invalid = (a.l)|(a.n)|(a.s)|(l.n)|(l.s)|(l.v)|(n.s)|(n.v)|(s.v)|(l.~cl)|(r.~cr0)|(s.~cs)|(cr1.r.~v)|(r.~cr1.~l)
+D3 = s
+D2 = n|(a.v)|(l.~r)
+D1 = n|(l.~r)|(v.~a)
+D0 = s|(r.v)|(a.~v)|(l.~r)
