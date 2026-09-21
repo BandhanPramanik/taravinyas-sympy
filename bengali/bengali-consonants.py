@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: BSD-3-Clause
 from sympy import symbols
 from sympy.logic import *
 from sympy.logic.boolalg import *
