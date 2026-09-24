@@ -1,6 +1,0 @@
-invalid = S.(!C_S + L + N + V + A) + L.(!C_L + N + V + A) + N.(V + A) + R.(!C_R0 + C_R1.!V + !C_R1.!L)
-D3 = S
-D2 = N+(A.V)+(L.!R)
-D1 = N+(L.!R)+(V.!A)
-D0 = S+(R.V)+(A.!V)+(L.!R)
-
