@@ -30,7 +30,8 @@ coarse = expr & (
         (~l | cl) &
         (~r | cr0) &
         (~(~s & ~l & ~n & r & v) | (cr1 & cr0)) &
-        (~(~s & l & ~n & r & ~v & ~a) | (~cr1 & cr0))
+        (~(~s & l & ~n & r & ~v & ~a) | (~cr1 & cr0)) &
+        Exclusive(s, l, n, (v | a))
         )
 invalid_all = Not(coarse)
 invalid_all = simplify_logic(invalid_all, force=True)

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: BSD-3-Clause
+# TODO: the entire thing; bengali consonants aren't complete yet
 from evaluate_truth_table import find_minterms
 from sympy import symbols
 from sympy.logic import *
