@@ -1,5 +1,5 @@
 # taravinyas-sympy
-All the Sympy codes for Taravinyas for various scripts
+All the Sympy codes for Taravinyas for various scripts. [Here is the preprint for the first part of Taravinyas.](https://doi.org/10.5281/zenodo.20467634)
 
 # How to run
 
